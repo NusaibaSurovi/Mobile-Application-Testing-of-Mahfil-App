@@ -31,7 +31,7 @@ Testing was conducted on physical hardware to ensure real-world accuracy:
 
 ## Testing Covered:
 
-User Authentication
+User Authentication 
 Content Categories
 Video Streaming
 Unique Video Content
@@ -40,5 +40,4 @@ Search and Filters
 User Interaction
 
 
----
-*Tested with ❤️ by [Your Name]*
+
