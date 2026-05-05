@@ -31,13 +31,11 @@ Testing was conducted on physical hardware to ensure real-world accuracy:
 
 ## Testing Covered:
 
-User Authentication 
-Content Categories
-Video Streaming
-Unique Video Content
-Download Functionality
-Search and Filters
-User Interaction
+**User Authentication** 
+**Content Categories**
+**Download Functionality**
+**Search and Filters**
+**User Interaction**
 
 
 
